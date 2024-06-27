@@ -17,6 +17,7 @@
 ## *DEPLOYMENT METHODS*
 - ***DEPLOY ON `HEROKU` OR `RENDER**
 
-[`Helper`](https://wa.me/+919883457657?text=Session_Problem_brohhh_please_help🎊)
+[`Owner`](https://wa.me/+919883457657?text=Session_Problem_brohhh_please_help🎊)
+
 
 
