@@ -95,4 +95,4 @@ router.get('/', async (req, res) => {
 	}
 	return await SIGMA_MD_QR_CODE()
 });
-module.exports = router
+module.exports = route
